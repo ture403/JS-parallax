@@ -2,7 +2,7 @@
 
 <img src="img/parallax.jpg"  width="1000" height="500">
 
-자바스크립트로 작성한 마우스 이펙트 입니다. 
+자바스크립트로 작성한 parallax 이펙트 입니다. 
 
 ******
 
